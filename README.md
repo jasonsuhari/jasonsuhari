@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🛌 asleep (hopefully) _(last ping: Mon 04:28 SGT)_
+> **right now** — 💤 REM cycle deep-diving _(last ping: Mon 04:52 SGT)_
 <!-- NOW:END -->
 
 </div>
