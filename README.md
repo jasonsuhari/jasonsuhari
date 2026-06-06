@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🛌 should be asleep, isn't _(last ping: Sun 00:28 SGT)_
+> **right now** — 🛌 should be asleep, isn't _(last ping: Sun 00:54 SGT)_
 <!-- NOW:END -->
 
 </div>
