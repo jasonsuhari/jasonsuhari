@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🏋️ gym (allegedly) _(last ping: Sat 18:41 SGT)_
+> **right now** — 🍜 hawker dinner — zi char or bust _(last ping: Sat 19:33 SGT)_
 <!-- NOW:END -->
 
 </div>
