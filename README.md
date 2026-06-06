@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎬 movie night _(last ping: Sat 20:33 SGT)_
+> **right now** — 🎬 movie night _(last ping: Sat 21:34 SGT)_
 <!-- NOW:END -->
 
 </div>
