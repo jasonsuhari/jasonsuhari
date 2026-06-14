@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 👨‍💻 late-night commits, zero remorse _(last ping: Sun 23:36 SGT)_
+> **right now** — 🛌 should be asleep, isn't _(last ping: Mon 00:35 SGT)_
 <!-- NOW:END -->
 
 </div>
