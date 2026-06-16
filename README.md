@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 📐 proof that I regret choosing DSA _(last ping: Tue 11:48 SGT)_
+> **right now** — 🍱 deciding between 4 places I eat at every week _(last ping: Tue 13:55 SGT)_
 <!-- NOW:END -->
 
 </div>
