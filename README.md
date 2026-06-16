@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 💻 opening the laptop with malicious intent _(last ping: Tue 09:07 SGT)_
+> **right now** — 📐 proof that I regret choosing DSA _(last ping: Tue 10:22 SGT)_
 <!-- NOW:END -->
 
 </div>
