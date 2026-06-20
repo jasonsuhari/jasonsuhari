@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 💻 opening the laptop with malicious intent _(last ping: Sat 09:48 SGT)_
+> **right now** — 🍳 cooking something ambitious _(last ping: Sat 11:12 SGT)_
 <!-- NOW:END -->
 
 </div>
