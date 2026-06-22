@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎨 pixel art — nothing matches tomorrow _(last ping: Mon 20:33 SGT)_
+> **right now** — 🦇 the witching hour, terminal glow on the face _(last ping: Mon 22:55 SGT)_
 <!-- NOW:END -->
 
 </div>
