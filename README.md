@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🎮 playtesting a prototype _(last ping: Mon 17:09 SGT)_
+> **right now** — 🍲 eating something that earned its MSG _(last ping: Mon 19:16 SGT)_
 <!-- NOW:END -->
 
 </div>
