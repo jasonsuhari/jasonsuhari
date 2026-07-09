@@ -188,11 +188,11 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 <td>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#97](https://github.com/jasonsuhari/gridbash/issues/97) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
-2. ❗ Opened issue [#96](https://github.com/jasonsuhari/gridbash/issues/96) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
-3. ❗ Opened issue [#95](https://github.com/jasonsuhari/gridbash/issues/95) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
-4. 🗣 Commented on [#88](https://github.com/jasonsuhari/gridbash/issues/88#issuecomment-4920724840) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
-5. 🔒 Closed issue [#88](https://github.com/jasonsuhari/gridbash/issues/88) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
+1. 🎉 Merged PR [#115](https://github.com/jasonsuhari/gridbash/pull/115) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
+2. 🔒 Closed issue [#114](https://github.com/jasonsuhari/gridbash/issues/114) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
+3. 💪 Opened PR [#115](https://github.com/jasonsuhari/gridbash/pull/115) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
+4. ❗ Opened issue [#114](https://github.com/jasonsuhari/gridbash/issues/114) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
+5. 🗣 Commented on [#97](https://github.com/jasonsuhari/gridbash/issues/97#issuecomment-4921767142) in [jasonsuhari/gridbash](https://github.com/jasonsuhari/gridbash)
 <!--END_SECTION:activity-->
 
 </td>
