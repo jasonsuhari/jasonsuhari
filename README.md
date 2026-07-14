@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🦇 the witching hour, terminal glow on the face _(last ping: Tue 23:22 SGT)_
+> **right now** — 🎧 lofi hip-hop radio, 5 tabs, one thought _(last ping: Wed 00:44 SGT)_
 <!-- NOW:END -->
 
 </div>
