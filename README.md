@@ -15,35 +15,6 @@ I build AI agents, developer tools, and accessible software that help people use
 
 </div>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="images/system-map-mobile.svg">
-  <img src="images/system-map.svg" width="100%" alt="Animated project constellation connecting GridBash, Fluent, Orangeboard, Faultline, Godot MCP, and grift">
-</picture>
-
-<details>
-<summary><strong>Open the operations console</strong></summary>
-
-<br>
-
-<pre>
-jason@github:~$ whoami
-Jason Matthew Suhari
-
-jason@github:~$ ls ~/build
-gridbash/   fluent/   orangeboard/   faultline/   godot-mcp/   grift/
-
-jason@github:~$ cat focus.txt
-AI agents
-developer tools
-accessible computer use
-geospatial systems
-
-jason@github:~$ ./collaborate
-open https://jasonsuhari.com
-</pre>
-
-</details>
-
 ## What I am building
 
 I am a software engineer and product builder from Indonesia, based in Singapore. I study Data Science and Computer Science at the National University of Singapore.
