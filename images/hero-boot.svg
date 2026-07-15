@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="CRT terminal booting jason.OS v4.7">
-  <title>booting jason.OS v4.7 ...</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Jason Matthew Suhari — creator of GridBash and CTO at Fluent">
+  <title>Jason Matthew Suhari — creator of GridBash and CTO at Fluent</title>
 
 
   <defs>
@@ -57,7 +57,7 @@
     <circle cx="44"  cy="24" r="6" fill="#fb4934"/>
     <circle cx="64"  cy="24" r="6" fill="#fabd2f"/>
     <circle cx="84"  cy="24" r="6" fill="#b8bb26"/>
-    <text x="600" y="28" text-anchor="middle" font-family="ui-monospace, 'Fira Code', 'JetBrains Mono', monospace" font-size="12" fill="#928374">jason@crt — /dev/tty0 — 120x24</text>
+    <text x="600" y="28" text-anchor="middle" font-family="ui-monospace, 'Fira Code', 'JetBrains Mono', monospace" font-size="12" fill="#928374">jason@github — building useful software</text>
     <!-- Power LED: blinks on at t=0 -->
     <circle cx="1156" cy="24" r="5" fill="#b8bb26" opacity="0">
       <animate attributeName="opacity" values="0;1;0.3;1" keyTimes="0;0.2;0.4;1" dur="0.8s" begin="0s" fill="freeze"/>
@@ -78,13 +78,13 @@
     <g font-family="ui-monospace, 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace" font-size="15" filter="url(#glow)">
       <text x="44" y="80"  fill="#83a598" clip-path="url(#tw1)">CRT-2000 BIOS v1.0 &#8212; Copyright (c) Jason Industries 2026</text>
       <text x="44" y="104" fill="#a89984" clip-path="url(#tw2)">&gt; POST: CPU [<tspan fill="#b8bb26">OK</tspan>]  MEM 16384MB [<tspan fill="#b8bb26">OK</tspan>]  KEYBOARD [<tspan fill="#b8bb26">OK</tspan>]  CRT [<tspan fill="#b8bb26">OK</tspan>]</text>
-      <text x="44" y="128" fill="#a89984" clip-path="url(#tw3)">&gt; booting <tspan fill="#fabd2f">jason.OS v4.7</tspan> from /dev/sda1 ...</text>
-      <text x="44" y="152" fill="#a89984" clip-path="url(#tw4)">&gt; mount /hackathons ............................. [<tspan fill="#b8bb26">mounted</tspan>]</text>
-      <text x="44" y="176" fill="#a89984" clip-path="url(#tw5)">&gt; load  data_scientist.dll ....................... [<tspan fill="#b8bb26">OK</tspan>]</text>
-      <text x="44" y="200" fill="#a89984" clip-path="url(#tw6)">&gt; load  game_dev.dll ............................. [<tspan fill="#b8bb26">OK</tspan>]</text>
-      <text x="44" y="224" fill="#a89984" clip-path="url(#tw7)">&gt; load  pixel_art.dll ............................ [<tspan fill="#b8bb26">OK</tspan>]</text>
-      <text x="44" y="248" fill="#a89984" clip-path="url(#tw8)">&gt; load  aircon_enthusiast.dll .................... [<tspan fill="#b8bb26">OK</tspan>]</text>
-      <text x="44" y="272" fill="#a89984" clip-path="url(#tw9)">&gt; starting shell ................................. [<tspan fill="#fabd2f">ready</tspan>]</text>
+      <text x="44" y="128" fill="#a89984" clip-path="url(#tw3)">&gt; booting <tspan fill="#fabd2f">jason.OS</tspan> from /dev/sda1 ...</text>
+      <text x="44" y="152" fill="#a89984" clip-path="url(#tw4)">&gt; mount /gridbash ............................... [<tspan fill="#b8bb26">mounted</tspan>]</text>
+      <text x="44" y="176" fill="#a89984" clip-path="url(#tw5)">&gt; load  rust_toolchain.sys ....................... [<tspan fill="#b8bb26">OK</tspan>]</text>
+      <text x="44" y="200" fill="#a89984" clip-path="url(#tw6)">&gt; load  ai_agents.sys ............................ [<tspan fill="#b8bb26">OK</tspan>]</text>
+      <text x="44" y="224" fill="#a89984" clip-path="url(#tw7)">&gt; load  accessibility.sys ....................... [<tspan fill="#b8bb26">OK</tspan>]</text>
+      <text x="44" y="248" fill="#a89984" clip-path="url(#tw8)">&gt; load  product_engineering.sys ................. [<tspan fill="#b8bb26">OK</tspan>]</text>
+      <text x="44" y="272" fill="#a89984" clip-path="url(#tw9)">&gt; starting builder shell ........................ [<tspan fill="#fabd2f">ready</tspan>]</text>
 
       <!-- prompt line fades in, cursor blinks forever -->
       <g opacity="0">
@@ -99,7 +99,7 @@
       <!-- name reveal -->
       <g opacity="0">
         <animate attributeName="opacity" from="0" to="1" begin="6.7s" dur="0.3s" fill="freeze"/>
-        <text x="44" y="336" font-size="16" font-weight="700" fill="#fabd2f">Jason Matthew Suhari &#8212; data scientist / indie dev / pixel pusher</text>
+        <text x="44" y="336" font-size="16" font-weight="700" fill="#fabd2f">Jason Matthew Suhari &#8212; creator of GridBash / CTO at Fluent</text>
       </g>
 
       <!-- blinking cursor -->
