@@ -26,13 +26,15 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Jason!;Data+Scientist+%7C+Game+Dev+%7C+Pixel+Artist;NUS+DSA+'27+%F0%9F%87%B8%F0%9F%87%AC+%E2%86%90+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
+# Jason Matthew Suhari
+
+**Creator of [GridBash](https://github.com/jasonsuhari/gridbash) · Co-Founder & CTO at [Fluent](https://getfluent.tech) · AI systems and developer tools**
 
 <br>
 
-<a href="https://komarev.com/ghpvc/?username=jasonmatthewsuhari&style=flat-square&color=56B4E9&label=views"><img src="https://komarev.com/ghpvc/?username=jasonmatthewsuhari&style=flat-square&color=56B4E9&label=views" alt="profile views" /></a>
-<a href="https://github.com/jasonmatthewsuhari?tab=followers"><img src="https://img.shields.io/github/followers/jasonmatthewsuhari?style=flat-square&color=E69F00&label=followers" alt="followers" /></a>
-<a href="https://github.com/jasonmatthewsuhari"><img src="https://img.shields.io/github/stars/jasonmatthewsuhari?style=flat-square&color=F0E442&label=stars" alt="stars" /></a>
+<a href="https://komarev.com/ghpvc/?username=jasonsuhari&style=flat-square&color=56B4E9&label=views"><img src="https://komarev.com/ghpvc/?username=jasonsuhari&style=flat-square&color=56B4E9&label=views" alt="profile views" /></a>
+<a href="https://github.com/jasonsuhari?tab=followers"><img src="https://img.shields.io/github/followers/jasonsuhari?style=flat-square&color=E69F00&label=followers" alt="followers" /></a>
+<a href="https://github.com/jasonsuhari"><img src="https://img.shields.io/github/stars/jasonsuhari?style=flat-square&color=F0E442&label=stars" alt="stars" /></a>
 <a href="https://jasonsuhari.com"><img src="https://img.shields.io/badge/portfolio-jasonsuhari.com-009E73?style=flat-square" alt="portfolio" /></a>
 <a href="https://medium.com/@jasonmatthewsuhari"><img src="https://img.shields.io/badge/blog-medium-CC79A7?style=flat-square" alt="blog" /></a>
 
@@ -67,9 +69,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-I'm a data scientist and aspiring indie game developer from Indonesia, currently based in Singapore. Professional aircon enjoyer, small-time food critic, and pixel art enthusiast. I spend my free time cooking dishes from various cuisines, competing in hackathons, and writing for my blog.
+I'm Jason Matthew Suhari, a software engineer and AI systems builder from Indonesia, based in Singapore. I created [GridBash](https://github.com/jasonsuhari/gridbash), a cross-platform Rust terminal grid for orchestrating CLI coding agents, and co-founded [Fluent](https://getfluent.tech), where I build accessible computer-use software.
 
-Despite my profile picture making me look like I run three MLMs in my sleep, I do enjoy talking to people and making new friends :)
+I study Data Science and Computer Science at the National University of Singapore. My work spans developer tools, AI agents, accessibility, geospatial products, data engineering, and the occasional game.
 
 <br>
 
@@ -111,25 +113,25 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <div align="center">
 
-<a href="https://github.com/jasonmatthewsuhari/godot-mcp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=godot-mcp&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
+<a href="https://github.com/jasonsuhari/gridbash">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonsuhari&repo=gridbash&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" alt="GridBash repository card" />
 </a>&nbsp;
-<a href="https://github.com/jasonmatthewsuhari/source-awakening">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=source-awakening&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
+<a href="https://github.com/jasonsuhari/orangeboard">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonsuhari&repo=orangeboard&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" alt="Orangeboard repository card" />
 </a>
 
-<a href="https://github.com/jasonmatthewsuhari/cerebral-gemini-hackathon">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=cerebral-gemini-hackathon&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
+<a href="https://github.com/jasonsuhari/floodline-superainext">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonsuhari&repo=floodline-superainext&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" alt="Faultline repository card" />
 </a>&nbsp;
-<a href="https://github.com/jasonmatthewsuhari/sds-datathon-25">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=sds-datathon-25&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
+<a href="https://github.com/jasonsuhari/godot-mcp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonsuhari&repo=godot-mcp&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" alt="Godot MCP repository card" />
 </a>
 
-<a href="https://github.com/jasonmatthewsuhari/kaggle">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=kaggle&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
+<a href="https://github.com/jasonsuhari/grift">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonsuhari&repo=grift&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" alt="grift repository card" />
 </a>&nbsp;
-<a href="https://github.com/jasonmatthewsuhari/jasonmatthewsuhari.github.io">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonmatthewsuhari&repo=jasonmatthewsuhari.github.io&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" />
+<a href="https://github.com/jasonsuhari/fluent-releases">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jasonsuhari&repo=fluent-releases&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF" alt="Fluent releases repository card" />
 </a>
 
 </div>
@@ -162,12 +164,12 @@ Despite my profile picture making me look like I run three MLMs in my sleep, I d
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonmatthewsuhari&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF&ring_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmatthewsuhari&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonsuhari&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=56B4E9&text_color=FFFFFF&ring_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsuhari&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
 
 <br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonmatthewsuhari&theme=gruvbox&hide_border=true&background=00000000&ring=FFFFFF&fire=D55E00&currStreakLabel=56B4E9&sideLabels=FFFFFF&dates=FFFFFF80" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonsuhari&theme=gruvbox&hide_border=true&background=00000000&ring=FFFFFF&fire=D55E00&currStreakLabel=56B4E9&sideLabels=FFFFFF&dates=FFFFFF80" alt="GitHub Streak" />
 
 </div>
 
