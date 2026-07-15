@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- NOW:START -->
-> **right now** — 🦉 night owl mode — writing code that won't make sense tomorrow _(last ping: Thu 00:01 SGT)_
+> **right now** — 🛌 should be asleep, isn't _(last ping: Thu 01:46 SGT)_
 <!-- NOW:END -->
 
 </div>
